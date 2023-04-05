@@ -6,8 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="SpringMVC-demo01" />
+        <module name="springMVC-demo1" />
+        <module name="SpringMVC-demo03" />
+        <module name="SpringMVC-demo04" />
+        <module name="SpringMVC-demo02" />
+        <module name="SpringMVC-demo05" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SpringMVC-demo01" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

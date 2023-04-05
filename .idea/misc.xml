@@ -5,6 +5,10 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/SpringMVC-demo01/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringMVC-demo02/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringMVC-demo03/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringMVC-demo05/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringMVC-demo04/pom.xml" />
       </list>
     </option>
   </component>
